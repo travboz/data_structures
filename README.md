@@ -4,7 +4,7 @@ This repository contains implementations for the fundamental data structures usi
 
 | Directory | Data Structure |
 | --- | --- |
-| /queue | Queue implemented using an Array and Linked List |
+| `/queue` | Queue implemented using an Array and Linked List |
 | TBA | TBA |
 
 ## How to Use
