@@ -15,7 +15,10 @@ The time complexities below are reflective of the Linked List implementation of 
 
 # Directory Structure: 
 `Node.py`: Node for the linked list.
+
 `QueueArray.py`: Array implementation of Queue.
+
 `QueueLL.py`: Linked list implementation of Queue.
+
 `test_QueueLL.py`: Unit tests for the linked list implementation of the Queue.
 
