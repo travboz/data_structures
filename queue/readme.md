@@ -13,7 +13,7 @@ The time complexities below are reflective of the Linked List implementation of 
 |`pop_left` | `O(1)` | `remove_from_head` |
 |`pop_right` | `O(n)` | `remove_from_tail` |
 
-# Directory Structure: 
+## Directory Structure: 
 `Node.py`: Node for the linked list.
 
 `QueueArray.py`: Array implementation of Queue.
