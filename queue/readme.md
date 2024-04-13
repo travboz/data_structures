@@ -12,3 +12,10 @@ The time complexities below are reflective of the Linked List implementation of 
 |`push_right` | `O(1)` | `add_to_tail`|
 |`pop_left` | `O(1)` | `remove_from_head` |
 |`pop_right` | `O(n)` | `remove_from_tail` |
+
+# Directory Structure: 
+`Node.py`: Node for the linked list.
+`QueueArray.py`: Array implementation of Queue.
+`QueueLL.py`: Linked list implementation of Queue.
+`test_QueueLL.py`: Unit tests for the linked list implementation of the Queue.
+
